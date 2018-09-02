@@ -7,3 +7,5 @@ Questo bot pubblica tutti i link postati sul gruppo Telegram ItalyInformatica (h
 • estrarre i link pubblicati sulla chat del gruppo Telegram insieme al nome dell'autore del messaggio   
 
 • postare automaticamente tale link sul subreddit indicando il nick Telegram dell'autore
+
+Wiki completa delle funzionalità: https://old.reddit.com/r/ItalyInformatica/wiki/bot
